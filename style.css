@@ -13,6 +13,7 @@ h1 {
     display: block;
     border-radius: 10%;
     margin: auto;
+    border: 5px solid black;
 }
 
 h2 {
@@ -34,4 +35,13 @@ li {
     font-size: 25px;
     color: rgb(49, 1, 49);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div {
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 15px 5px rgb(231, 109, 65);
+    margin: 0 450px;
+    background-color: chocolate;
 }
