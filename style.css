@@ -47,7 +47,7 @@ li {
     font-family: 'Montserrat', sans-serif;
 }
 
-div {
+.caja {
     box-sizing: border-box;
     border: 5px solid black;
     border-radius: 10px;
@@ -59,4 +59,8 @@ div {
 p {
     font-family: 'Montserrat', sans-serif;
 
+}
+
+.iconos {
+    font-size: 50px;
 }
